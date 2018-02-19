@@ -1,3 +1,3 @@
-# Readme
+# README
 
-Hello World!
+Hello world!
